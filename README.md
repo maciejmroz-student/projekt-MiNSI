@@ -5,9 +5,9 @@ Autorzy: Maciej Mróz, Roksana Patelczyk
 
 
 
-==============================
+===========================
 Instrukcja uruchomienia projektu Processing
-==============================
+===========================
 
 1. Instalacja Processing
 
