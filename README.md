@@ -13,9 +13,7 @@ Instrukcja uruchomienia projektu Processing
 Aby uruchomić projekt, potrzebna jest aplikacja Processing. Jest to środowisko programistyczne używane do tworzenia grafiki i interaktywnych wizualizacji.
 
 Instalator Processing możesz znaleźć:
-- Na oficjalnej stronie: [wstaw tutaj link do pobrania Processing]
-- W folderze "Windows" (dla systemu Windows)
-- W folderze "Mac OS" (dla systemu macOS)
+- Na oficjalnej stronie: https://processing.org/download
 
 Wybierz odpowiednią wersję dla swojego systemu operacyjnego i zainstaluj aplikację, postępując zgodnie z instrukcjami na ekranie.
 
