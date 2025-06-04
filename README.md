@@ -5,7 +5,6 @@ Autorzy: Maciej Mróz, Roksana Patelczyk
 
 
 
-===========================
 Instrukcja uruchomienia projektu Processing
 ===========================
 
@@ -30,5 +29,11 @@ Po zainstalowaniu Processing:
 2. W menu wybierz: **Plik → Otwórz...**
 3. Wskaż plik `projekt.pde`, który znajduje się w folderze z tym projektem.
 4. Po otwarciu pliku kliknij przycisk **Start (Trójkąt w lewym górnym rogu)**, aby uruchomić projekt.
+
+---
+
+W razie problemów, upewnij się, że:
+- Masz aktualną wersję Java (dołączona do Processing)
+- Nie zmieniano nazw plików i folderów w projekcie
 
 ---
